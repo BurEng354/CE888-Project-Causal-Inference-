@@ -7,5 +7,5 @@ Instructions for Perusal:
 3. Read and understand the code in Assignment1_2100435.py as needed.
 
 Notes:
-1. The links to the Datasets, named JOBS an IHDP, are mentioned in Assignment1_2100435.py. The Datasets need not be separately downloaded to run Assignment1_2100435.py
+1. The links to the Datasets, named JOBS an IHDP, are mentioned in Assignment1_2100435.py. The Datasets need not be separately downloaded to run Assignment1_2100435.py.
 
